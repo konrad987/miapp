@@ -1,0 +1,12 @@
+/Users/navar/Projects/miapp/miapp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.App.xaml
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.miappPage.xaml
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.App.xaml.g.cs
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.miappPage.xaml.g.cs
+/Users/navar/Projects/miapp/miapp/bin/Debug/miapp.dll.mdb
+/Users/navar/Projects/miapp/miapp/bin/Debug/miapp.dll
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.dll
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.dll.mdb
+/Users/navar/Projects/miapp/miapp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/navar/Projects/miapp/miapp/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/navar/Projects/miapp/miapp/bin/Debug/Xamarin.Forms.Xaml.dll

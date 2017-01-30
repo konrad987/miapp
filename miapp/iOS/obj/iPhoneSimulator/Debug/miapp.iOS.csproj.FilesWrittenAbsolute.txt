@@ -1,0 +1,15 @@
+/Users/navar/Projects/miapp/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/navar/Projects/miapp/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/navar/Projects/miapp/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/navar/Projects/miapp/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/navar/Projects/miapp/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/miapp.iOS.exe.mdb
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/miapp.iOS.exe
+/Users/navar/Projects/miapp/iOS/obj/iPhoneSimulator/Debug/miapp.iOS.exe
+/Users/navar/Projects/miapp/iOS/obj/iPhoneSimulator/Debug/miapp.iOS.exe.mdb
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/miapp.dll
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/miapp.dll.mdb
