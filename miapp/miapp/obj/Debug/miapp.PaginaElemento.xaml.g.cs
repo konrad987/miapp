@@ -14,7 +14,7 @@ namespace miapp {
     using Xamarin.Forms.Xaml;
     
     
-    public partial class PaginaElemento : global::Xamarin.Forms.ContentView {
+    public partial class PaginaElemento : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
