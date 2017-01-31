@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{FC144E10-5DE9-4CC4-A4BE-C6DD6B89F406}|Default" GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{C0689234-4371-491F-BC43-6564F7A4D5DC}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.miapp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CB344EDD-F613-455B-A190-B7D6FC1CA67A" />
   <MonoDevelop.Ide.ItemProperties.miapp.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="miapp/HomePage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="miapp/PaginaElemento.xaml.cs">
     <Files>
-      <File FileName="miapp/Elemento.cs" Line="12" Column="34" />
-      <File FileName="miapp/GeneradorDeMensajes.cs" Line="9" Column="8" />
-      <File FileName="miapp/PaginaElemento.xaml" Line="13" Column="1" />
-      <File FileName="miapp/PaginaElemento.xaml.cs" Line="13" Column="47" />
-      <File FileName="miapp/App.xaml.cs" Line="14" Column="5" />
+      <File FileName="miapp/Elemento.cs" Line="15" Column="1" />
+      <File FileName="miapp/GeneradorDeMensajes.cs" Line="49" Column="6" />
+      <File FileName="miapp/PaginaElemento.xaml" Line="12" Column="15" />
+      <File FileName="miapp/PaginaElemento.xaml.cs" Line="14" Column="30" />
+      <File FileName="miapp/App.xaml.cs" Line="17" Column="42" />
       <File FileName="miapp/PaginaListaElementos.cs" Line="20" Column="77" />
-      <File FileName="miapp/HomePage.xaml" Line="3" Column="2" />
-      <File FileName="miapp/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="miapp/HomePage.xaml" Line="4" Column="53" />
+      <File FileName="miapp/HomePage.xaml.cs" Line="14" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

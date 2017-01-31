@@ -10,6 +10,11 @@ namespace miapp
 		public string mensaje { get; set;}
 		public DateTime fecha { get; set;}
 		public string tipo { get; set;}
+
+		public override string ToString()
+		{
+			return string.Format( tipo);
+		}
  	}
 }
 
