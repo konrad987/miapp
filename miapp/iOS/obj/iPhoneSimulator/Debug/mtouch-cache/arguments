@@ -39,6 +39,8 @@
 	-r \
 	/Users/navar/Projects/miapp/packages/Xamarin.Forms.2.3.3.180/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
+	/Users/navar/Projects/miapp/packages/Newtonsoft.Json.9.0.1/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll \
+	-r \
 	/Users/navar/Projects/miapp/miapp/bin/Debug/miapp.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
@@ -306,6 +308,8 @@
 	/Users/navar/Projects/miapp/packages/Xamarin.Forms.2.3.3.180/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
 	/Users/navar/Projects/miapp/packages/Xamarin.Forms.2.3.3.180/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	-r \
+	/Users/navar/Projects/miapp/packages/Newtonsoft.Json.9.0.1/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll \
 	-r \
 	/Users/navar/Projects/miapp/miapp/bin/Debug/miapp.dll \
 	--target-framework \

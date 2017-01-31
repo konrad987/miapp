@@ -6,10 +6,10 @@ using Xamarin.Forms;
 
 namespace miapp
 {
-	public class GeneradorDeMensajes
+	class GeneradorDeMensajes
 	{
 		private static List<string> ListaTitulos = new List<string>
-		{ 
+		{
 			"Ana Tijoux", "Coco Legrand", "Cueca Nacional", "Teatro a $1000"
 		};
 

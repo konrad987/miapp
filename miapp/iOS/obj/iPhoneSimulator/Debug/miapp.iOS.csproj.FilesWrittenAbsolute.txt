@@ -13,3 +13,4 @@
 /Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/miapp.dll
 /Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/miapp.dll.mdb
+/Users/navar/Projects/miapp/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

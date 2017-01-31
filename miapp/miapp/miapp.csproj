@@ -33,6 +33,9 @@
     <EmbeddedResource Include="PaginaElemento.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -46,6 +49,10 @@
     <Compile Include="GeneradorDeMensajes.cs" />
     <Compile Include="PaginaElemento.xaml.cs">
       <DependentUpon>PaginaElemento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaListaElementos.cs" />
+    <Compile Include="HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

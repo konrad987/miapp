@@ -11,3 +11,7 @@
 /Users/navar/Projects/miapp/miapp/bin/Debug/Xamarin.Forms.Platform.dll
 /Users/navar/Projects/miapp/miapp/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/navar/Projects/miapp/miapp/bin/Debug/Newtonsoft.Json.dll
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.PaginaElemento.xaml
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.PaginaElemento.xaml.g.cs
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.HomePage.xaml
+/Users/navar/Projects/miapp/miapp/obj/Debug/miapp.HomePage.xaml.g.cs

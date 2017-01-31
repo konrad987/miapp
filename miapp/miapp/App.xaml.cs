@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using System;
+using Xamarin.Forms;
 
 namespace miapp
 {
@@ -8,7 +9,14 @@ namespace miapp
 		{
 			InitializeComponent();
 
-			MainPage = new miappPage();
+			MainPage = new NavigationPage(new HomePage())
+			{
+				
+				//titulo = "Titulo 1",
+				//mensaje = "Estamos en estado de catastrofe",
+				//fecha = "2017, 02, 16, 21, 00, 00",
+				//tipo = "Alarma"
+			};
 		}
 
 		protected override void OnStart()
