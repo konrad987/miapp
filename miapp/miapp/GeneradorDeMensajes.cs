@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace miapp
@@ -10,13 +12,14 @@ namespace miapp
 	{
 		private static List<string> ListaTitulos = new List<string>
 		{
-			"Ana Tijoux", "Coco Legrand", "Cueca Nacional", "Teatro a $1000"
+			"Ana Tijoux", "Coco Legrand", "Cueca Nacional", "Teatro a $1000", "Luis Jara", "Alerta"
 		};
 
 		private static List<string> ListaMensajes = new List<string>
 		{
-			"Esta semana en San Clemente, a disfrutar del mejor espetaculo del 2017, invita a Usted la Ilustre Municipalidad de San Clemente",
-			"Durante el mes de Abril se presentarán en la plaza de San Clemente uno de los mejores exponentes de su genero, ven a disfrutar",
+			"Esta semana en San Clemente, a disfrutar del mejor espetaculo del 2017, invita a Usted la Ilustre Municipalidad de San Clemente.",
+			"Durante el mes de Abril se presentarán en la plaza de San Clemente uno de los mejores exponentes de su genero, ven a disfrutar.",
+			"Lo mejores artistas del mundo vienen a este espectacular show único en San Clemente y el país."
 		};
 
 		private static List<DateTime> ListaFechas = new List<DateTime>
@@ -28,13 +31,14 @@ namespace miapp
 
 		private static List<string> ListaTipos = new List<string>
 		{
-			"Música", "Bailes", "Teatro"
+			"Música", "Danza", "Cueca", "Teatro", "Alertas", "Cine"
 		};
 
 		public static ObservableCollection<Elemento> creaElementos()
 		{
 			var random = new Random();
 			var avisos = new ObservableCollection<Elemento>();
+
 			for (int i = 0; i < 10; i++)
 			{
 				var tituloAviso = ListaTitulos[random.Next(ListaTitulos.Count - 1)];
